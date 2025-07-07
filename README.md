@@ -3,12 +3,12 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 
 ---
 
-## 📌 Education
+### 📌 Education
 - 🎓 **B.E. in Computer Science**, Chaitanya Bharathi Institute of Technology (2023–2027)
 -  **GPA**: 9.36
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills
 - **Languages:** Java, Python, C  
 - **Web Development:** HTML, CSS, JavaScript, Express.js, Node.js  
 - **Databases:** MongoDB, MySQL  
@@ -16,7 +16,7 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 
 ---
 
-## 💻 Projects
+### 💻 Projects
 ###  WanderLust
 - A full-stack web app to discover rental properties. Includes user auth, image uploads, interactive maps, and error handling.
 - Tech: Node.js, Express.js, MongoDB, EJS
@@ -27,12 +27,12 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 -  Selected for **VJ Hackathon 2024** – Contributed to frontend development.
 -  Contributor at **Social Summer of Code (SSOC) Season 4** .
 ---
 
-## 🔗 Connect with Me
+### 🔗 Connect with Me
 -  [LinkedIn](https://www.linkedin.com/in/ramavathmanjula/)  
 -  [GitHub](https://github.com/MANJULA690)   
 -  Email: ramavathmanjula93@gmail.com
