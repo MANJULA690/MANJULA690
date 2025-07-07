@@ -5,39 +5,37 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 
 ## 📌 Education
 - 🎓 **B.E. in Computer Science**, Chaitanya Bharathi Institute of Technology (2023–2027)
-- 📊 **GPA**: 9.36
+-  **GPA**: 9.36
 ---
 
 ## 🛠️ Skills
-**Languages:** Java, Python, C  
-**Web Development:** HTML, CSS, JavaScript, Express.js, Node.js  
-**Databases:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, Docker, VS Code  
+- **Languages:** Java, Python, C  
+- **Web Development:** HTML, CSS, JavaScript, Express.js, Node.js  
+- **Databases:** MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code  
 
 ---
 
 ## 💻 Projects
-### 🔹 WanderLust
+###  WanderLust
 - A full-stack web app to discover rental properties. Includes user auth, image uploads, interactive maps, and error handling.
 - Tech: Node.js, Express.js, MongoDB, EJS
 
-### 🔹 Student Management System
+###  Student Management System
 - MERN stack CRUD application to manage student records with responsive UI.
 - Tech: React.js, Vite, Bootstrap, Express.js, Node.js, MongoDB
 
 ---
 
 ## 🏆 Achievements
-
-- ✅ Selected for **VJ Hackathon 2024** – Contributed to frontend development.
-- ✅ Contributor at **Social Summer of Code (SSOC) Season 4** .
+-  Selected for **VJ Hackathon 2024** – Contributed to frontend development.
+-  Contributor at **Social Summer of Code (SSOC) Season 4** .
 ---
 
 ## 🔗 Connect with Me
-
 -  [LinkedIn](https://www.linkedin.com/in/ramavathmanjula/)  
 -  [GitHub](https://github.com/MANJULA690)   
 -  Email: ramavathmanjula93@gmail.com
 
----
+
 
