@@ -22,7 +22,7 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 - Tech: Node.js, Express.js, MongoDB, EJS
 
 ###  Student Management System
-- MERN stack CRUD application to manage student records with responsive UI.
+- MERN stack CRUD application to manage student records.
 - Tech: React.js, Vite, Bootstrap, Express.js, Node.js, MongoDB
 
 ---
