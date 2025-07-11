@@ -9,7 +9,7 @@ I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science st
 ---
 
 ### 🛠️ Skills
-- **Languages:** Java, Python, C  
+- **Languages:** Java, Python
 - **Web Development:** HTML, CSS, JavaScript, Express.js, Node.js  
 - **Databases:** MongoDB, MySQL  
 - **Tools & Platforms:** Git, GitHub, Docker, VS Code  
