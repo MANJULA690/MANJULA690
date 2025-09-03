@@ -1,5 +1,5 @@
 ## Hi there 
-I am Manjula, I am a passionate and detail-oriented 3rd-year Computer Science student with a strong interest in **Full-Stack Web Development**, **Problem Solving**. I love to build, learn, and contribute to real-world projects and open source.
+I am Manjula, a passionate and detail-oriented 3rd-year Computer Science student with a strong interest in **Full-Stack Web Development**, **Problem Solving**. I love to build, learn, and contribute to real-world projects and open source.
 
 ---
 
