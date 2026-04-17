@@ -5,7 +5,7 @@ I am Manjula, a passionate and detail-oriented 3rd-year Computer Science student
 
 ### Education
 - 🎓 **B.E. in Computer Science**, Chaitanya Bharathi Institute of Technology (2023–2027)
--  **GPA**: 9.36
+-  **GPA**: 9.09
 ---
 
 ### Skills
