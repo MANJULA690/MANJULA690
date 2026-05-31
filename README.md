@@ -27,13 +27,13 @@ I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-
 
 ##  Projects
 
-###  [TrackMed – Medicine Stock & Expiry Tracking System]
+###  TrackMed – Medicine Stock & Expiry Tracking System
 *React, Node.js, Express.js, MongoDB, JWT*
 - Full-stack MERN hospital pharmacy management system automating medicine inventory tracking, expiry monitoring, real-time alerts, and ML-based demand prediction.
 - Achieved **87.1% prediction accuracy** (12.9% MAPE) using a custom demand forecasting model combining Weighted Moving Average and Linear Regression.
 - Designed a custom JavaScript ML model (no external libraries) with automated alert engine and audit logging.
 
-###  [TradeX – Stock Trading Platform]
+###  TradeX – Stock Trading Platform
 *Node.js, Express.js, MongoDB*
 - Full-stack MERN stock trading platform enabling users to buy/sell stocks, track portfolios, and view real-time market data.
 - Implemented real-time price updates, portfolio analytics, and transaction tracking.
@@ -41,11 +41,9 @@ I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-
 ---
 
 
-
 ##  Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramavathmanjula/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANJULA690)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manju_1507/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://geeksforgeeks.org](https://www.geeksforgeeks.org/profile/manjula15))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramavathmanjula93@gmail.com)
+- Email : ramavathmanjula93@gmail.com
+- LeetCode : https://leetcode.com/u/manju_1507/
+- GeeksForGeeks : https://www.geeksforgeeks.org/profile/manjula15
+- GitHub : https://github.com/MANJULA690
+- LinkedIn : https://www.linkedin.com/in/ramavathmanjula/
