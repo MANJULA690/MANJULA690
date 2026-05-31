@@ -32,6 +32,7 @@ I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-
 - Full-stack MERN hospital pharmacy management system automating medicine inventory tracking, expiry monitoring, real-time alerts, and ML-based demand prediction.
 - Achieved **87.1% prediction accuracy** (12.9% MAPE) using a custom demand forecasting model combining Weighted Moving Average and Linear Regression.
 - Designed a custom JavaScript ML model (no external libraries) with automated alert engine and audit logging.
+- [Live link](https://trackmedd.netlify.app/)
 
 ###  TradeX – Stock Trading Platform
 *Node.js, Express.js, MongoDB*
