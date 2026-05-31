@@ -1,35 +1,51 @@
-## Hi there 
-I am Manjula, a passionate and detail-oriented 3rd-year Computer Science student with a strong interest in **Full-Stack Web Development**, **Problem Solving**. I love to build, learn, and contribute to real-world projects and open source.
+# Hi there, I'm Ramavath Manjula 
+
+I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-Stack Web Development**, **Problem Solving**, and building real-world, scalable systems. I love to build, learn, and contribute to open source.
 
 ---
 
-### Education
-- 🎓 **B.E. in Computer Science**, Chaitanya Bharathi Institute of Technology (2023–2027)
--  **GPA**: 9.09
----
+##  Education
 
-### Skills
-- **Languages:** Java, Python
-- **Web Development:** HTML, CSS, JavaScript, Express.js, Node.js  
-- **Databases:** MongoDB, MySQL  
-- **Tools & Platforms:** Git, GitHub, Docker, VS Code  
+**B.E. in Computer Science** — Chaitanya Bharathi Institute of Technology, Hyderabad (2023–2027)
+**CGPA:** 9.09 / 10
+
 
 ---
 
-### Projects
-###  WanderLust
-- A full-stack web app to discover rental properties. Includes user auth, image uploads, interactive maps, and error handling.
-- Tech: Node.js, Express.js, MongoDB, EJS
+##  Technical Skills
 
-###  Student Management System
-- MERN stack CRUD application to manage student records.
-- Tech: React.js, Vite, Bootstrap, Express.js, Node.js, MongoDB
+| Category | Technologies |
+|---|---|
+| **Languages** | Java, JavaScript (Node.js), Python, C |
+| **Frontend** | React.js, Tailwind CSS, HTML/CSS |
+| **Backend & APIs** | Express.js, RESTful API Design, JWT Auth, MVC Architecture |
+| **Databases** | MySQL, MongoDB |
+| **DevOps & Tools** | Git, GitHub, Docker, Linux, VS Code |
 
 ---
 
-### Connect with Me
--  [LinkedIn](https://www.linkedin.com/in/ramavathmanjula/)    
--  Email: ramavathmanjula93@gmail.com
+
+##  Projects
+
+###  [TrackMed – Medicine Stock & Expiry Tracking System]
+*React, Node.js, Express.js, MongoDB, JWT*
+- Full-stack MERN hospital pharmacy management system automating medicine inventory tracking, expiry monitoring, real-time alerts, and ML-based demand prediction.
+- Achieved **87.1% prediction accuracy** (12.9% MAPE) using a custom demand forecasting model combining Weighted Moving Average and Linear Regression.
+- Designed a custom JavaScript ML model (no external libraries) with automated alert engine and audit logging.
+
+###  [TradeX – Stock Trading Platform]
+*Node.js, Express.js, MongoDB*
+- Full-stack MERN stock trading platform enabling users to buy/sell stocks, track portfolios, and view real-time market data.
+- Implemented real-time price updates, portfolio analytics, and transaction tracking.
+
+---
 
 
 
+##  Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramavathmanjula/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANJULA690)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manju_1507/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://geeksforgeeks.org](https://www.geeksforgeeks.org/profile/manjula15))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramavathmanjula93@gmail.com)
