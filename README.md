@@ -34,7 +34,7 @@ I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-
 - Designed a custom JavaScript ML model (no external libraries) with automated alert engine and audit logging.
 - [Live link](https://trackmedd.netlify.app/)
 
-###  FinTrak – AI-Powered Personal Expense Tracker
+###  FinTrack – AI-Powered Personal Expense Tracker
 *React, Node.js, Express.js, MongoDB, JWT, Groq AI*
 - Developed a full-stack MERN expense tracking application with JWT authentication, category-wise budget
 management, and real-time spending analytics across 8 expense categories.
