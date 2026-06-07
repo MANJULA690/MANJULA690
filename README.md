@@ -34,11 +34,14 @@ I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-
 - Designed a custom JavaScript ML model (no external libraries) with automated alert engine and audit logging.
 - [Live link](https://trackmedd.netlify.app/)
 
-###  TradeX – Stock Trading Platform
-*Node.js, Express.js, MongoDB*
-- Full-stack MERN stock trading platform enabling users to buy/sell stocks, track portfolios, and view real-time market data.
-- Implemented real-time price updates, portfolio analytics, and transaction tracking.
-
+###  FinTrak – AI-Powered Personal Expense Tracker
+*React, Node.js, Express.js, MongoDB, JWT, Groq AI*
+- Developed a full-stack MERN expense tracking application with JWT authentication, category-wise budget
+management, and real-time spending analytics across 8 expense categories.
+- Integrated an AI-powered chatbot using Groq’s LLaMA 3.1 API that dynamically reads the user’s live transaction
+and budget data to deliver personalized financial insights and spending recommendations.
+- Built an interactive analytics dashboard with Chart.js featuring weekly bar charts, 6-month trend lines, and
+category donut charts, enabling users to visualize and control their spending patterns.
 ---
 
 
