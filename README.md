@@ -1,6 +1,6 @@
 # Hi there, I'm Ramavath Manjula 
 
-I'm a detail-oriented 3rd-year Computer Science student passionate about **Full-Stack Web Development**, **Problem Solving**, and building real-world, scalable systems. I love to build, learn, and contribute to open source.
+I'm a detail-oriented 4th-year Computer Science student passionate about **Full-Stack Web Development**, **Problem Solving**, and building real-world, scalable systems. I love to build, learn, and contribute to open source.
 
 ---
 
