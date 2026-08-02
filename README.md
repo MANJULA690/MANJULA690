@@ -7,7 +7,7 @@ I'm a detail-oriented 4th-year Computer Science student passionate about **Full-
 ##  Education
 
 **B.E. in Computer Science** — Chaitanya Bharathi Institute of Technology, Hyderabad (2023–2027)
-**CGPA:** 9.09 / 10
+**CGPA:** 9.05 / 10
 
 
 ---
